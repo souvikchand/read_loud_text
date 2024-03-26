@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Read Aloud]
+@="Read Aloud"
+
+[HKEY_CLASSES_ROOT\*\shell\Read Aloud\command]
+@="\"<Path to your Python executable>\" \"<Path to your script>\""
